@@ -10,7 +10,7 @@ To run simulator : Click on window and press "s"
 
 To manually set target : simulator fabrikSim target <x> <y> <z>
 
-To read in a spline: simulator fabrikSim read <spline .txt file>
+To read in a spline : simulator fabrikSim read <spline .txt file>
 
 To change mode : simulator fabrikSim mode <mode name>
 	(modes : click, drag, spline, command)
