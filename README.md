@@ -19,4 +19,4 @@ To change mode : simulator fabrikSim mode <mode name>
 To change the number of joints:
 	1) Add/remove desired points from start.tcl
 		(command: system structure point <index> <x> <y> <z>
-	2) Edit numPoints in Structure.h line 28 to be the number of points in the start.tcl
+	2) Edit numPoints in Structure.h line 28 to be the number of points in the start.tcl in the Build folder
