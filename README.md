@@ -5,6 +5,11 @@ To change input mode, comment and uncomment the appropriate command in the start
 
 If swapping to or from spline mode, be sure to comment or uncomment the load command as well
 
+## HOW TO RUN:
+1) Open the project folder in an IDE
+2) Select anim.cpp inside the anim subfolder
+3) Run the program
+
 ## COMMANDS:
 
 To run/pause simulator : Click on window and press "s"
