@@ -6,7 +6,7 @@ To change input mode, comment and uncomment the appropriate command in the start
 If swapping to or from spline mode, be sure to comment or uncomment the load command as well
 
 COMMANDS:
-To run simulator : Click on window and press "s"
+To run/pause simulator : Click on window and press "s"
 
 To manually set target : simulator fabrikSim target <x> <y> <z>
 
