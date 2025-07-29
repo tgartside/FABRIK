@@ -5,7 +5,7 @@ To change input mode, comment and uncomment the appropriate command in the start
 
 If swapping to or from spline mode, be sure to comment or uncomment the load command as well
 
-COMMANDS:
+## COMMANDS:
 
 To run/pause simulator : Click on window and press "s"
 
