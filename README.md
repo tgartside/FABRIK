@@ -7,6 +7,8 @@ To change input mode, comment and uncomment the appropriate command in the start
 
 If swapping to or from spline mode, be sure to comment or uncomment the load command as well
 
+For more information, read FABRIK-Paper.pdf
+
 ## HOW TO RUN:
 1) Open the project folder in an IDE
 2) Select anim.cpp inside the anim subfolder
