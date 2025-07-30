@@ -1,5 +1,7 @@
 # FABRIK
 
+This is an implementation of the FABRIK (Forwards And Backwards Reaching Inverse Kinematics) algorithm
+
 The code is set up to load an 8 joint structure and to load and trace a spline.
 To change input mode, comment and uncomment the appropriate command in the start.tcl
 
